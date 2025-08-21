@@ -1,6 +1,6 @@
 import java.util.*;
 
-// This class finds the number using a binary search approach.
+// This class finds the number  using a binary search approach.
 public class Solution1_BinarySearch {
 
     /**
